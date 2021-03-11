@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "426545062220",
+    "project_id": "megashop-231bd",
+    "storage_bucket": "megashop-231bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426545062220:android:af95290fe7d835167a6fe9",
+        "android_client_info": {
+          "package_name": "com.ossacodes.megashopadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426545062220-kh1a8itr4jjflct2v7o5d4afibkkhdus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGgyofwc2vx8Gk4xw1Z0xQkAKsQjXMBBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426545062220-kh1a8itr4jjflct2v7o5d4afibkkhdus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426545062220-5i9maml7sv1ccrhesepejtnif55b67ug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ossacodes.megashop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
